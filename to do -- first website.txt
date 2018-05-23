@@ -1,0 +1,11 @@
+header -- larger, superimposed over image??, 
+
+image -- caption w/ source (http://www.arokhslair.net/forum/viewtopic.php?t=4211&start=45)
+
+herein para -- larger
+
+list -- container for list with alignment furthest to left??
+
+background -- darkslateblue
+
+
