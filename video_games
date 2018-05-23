@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./style.css" type="text/css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet"> 
+    <title>Synthaea's favourite games ♥</title>
+  </head>
+
+  <header>
+    <div class="header" href="first">
+  	  <p>~ Synthaea's Favourite Video Games ♥ ~</p>
+    </div>
+  </header>
+
+  <body>
+    <div class="image1">
+      <img src="./rynn.png" />
+    </div>
+
+  	<div class=para>
+      <p>Herein lies a list of my favourite video games, in (approximately) chronological order:</p>
+    </div>
+  	 
+    <div class=list>
+      <ol>
+  	    <li>Castle of the Winds</li>
+  	    <li>Heroes of Might & Magic 2: The Succession Wars</li>
+  	    <li>Baldur's Gate 2</li>
+  	    <li>Planescape: Torment</li>
+  	    <li>Neverwinter Nights</li>
+  	    <li>Rayman 2: The Great Escape</li>
+        <li>Drakan</li>
+        <li>Stronghold Deluxe</li>
+        <li>Tomb Raider: Chronicles</li>
+        <li>The Elder Scrolls Series (Oblivion being the ultimate favourite :P)</li>
+        <li>Assassin's Creed</li>
+        <li>Dragon Age: Origins</li>
+        <li>Portal (both 1 & 2).</li>
+        <li>Settlers of Catan (wait, that's not a video game!)</li>
+        <li>Antichamber</li>
+        <li>The Talos Principle</li>
+      </ol>
+    </div>
+    
+  </body>
+
+  <footer>
+    <div class=footer>
+      <div class=image2>
+        <img src="./sorceress-castle-concept-art.jpg">
+      </div>
+        <p class=divider>-- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx -- xx-- 
+
+        </p>
+  		  <p><italic>Thank you for taking the time to visit my page!</italic></p>
+          <div class=emoji>
+            <p>^-^</p>
+          </div>
+    </div>
+  </footer>
+</html>
